@@ -31,3 +31,32 @@
 
 en:
   hello: "Hello world"
+  title: "Ruby on Rails Tutorial Sample App"
+  title-home: "Home"
+  title-about: "About"
+  title-contact: "Contact"
+  title-help: "Help"
+  home-page:
+    title-home-1: "This is the home page for the"
+    title-home-2: "Ruby on Rails Tutorial"
+    title-home-3: "sample application."
+    title-home-4: "Welcome to the Sample App "
+  about-page:
+    title-about-1: "The "
+    title-about-2: "Ruby on Rails Tutorial"
+    title-about-3: " is a."
+    title-about-4: "book"
+    title-about-5: " and"
+    title-about-6: "screencast series"
+    title-about-7: "to teach web development with"
+    title-about-8: "Ruby on Rails"
+    title-about-9: "This is the sample application for the tutorial."
+  contact-page:
+    title-home-1: "Contact the Ruby on Rails Tutorial about the sample app at the"
+    title-home-2: "contact page"
+  help-page:
+    title-help-1: "Get help on the Ruby on Rails Tutorial at the"
+    title-help-2: "Rails Tutorial help section"
+    title-help-3: "To get help on this sample app, see the"
+    title-help-4: "Ruby on Rails Tutorial"
+    title-help-5: "book"

@@ -1,0 +1,10 @@
+enabled_locales: ["en", "ja"]
+webpage:
+  link1: "https://www.railstutorial.org/"
+  link2: "https://www.railstutorial.org/book"
+  link3: "http://screencasts.railstutorial.org/"
+  link4: "http://rubyonrails.org/"
+webpage_contact:
+  link_contact_1: "https://www.railstutorial.org/contact"
+webpage_help:
+  link_help_1: "https://www.railstutorial.org/help"
