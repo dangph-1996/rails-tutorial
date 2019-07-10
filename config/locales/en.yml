@@ -36,11 +36,21 @@ en:
   title-about: "About"
   title-contact: "Contact"
   title-help: "Help"
+  title-author: "Michael Hartl"
+  title-singup: "Signup"
+  header-page:
+    tittle-login: "Login"
+    title-name: "Sample app"
+  footer-page:
+    title-footer-1: "The "
+    title-footer-2: "by "
+    title-footer-3: "News"
   home-page:
     title-home-1: "This is the home page for the"
     title-home-2: "Ruby on Rails Tutorial"
     title-home-3: "sample application."
     title-home-4: "Welcome to the Sample App "
+    title-home-5: "Sign up now!"
   about-page:
     title-about-1: "The "
     title-about-2: "Ruby on Rails Tutorial"
@@ -60,3 +70,6 @@ en:
     title-help-3: "To get help on this sample app, see the"
     title-help-4: "Ruby on Rails Tutorial"
     title-help-5: "book"
+  sign-up:
+    title-signup-1: "Sign up"
+    title-signup-2: "This will be a signup page for new users."
