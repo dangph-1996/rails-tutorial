@@ -8,3 +8,8 @@ webpage_contact:
   link_contact_1: "https://www.railstutorial.org/contact"
 webpage_help:
   link_help_1: "https://www.railstutorial.org/help"
+validation_user:
+  name_user_max: 50
+  password_user_min: 6
+  password_user_max: 255
+  email_user: !ruby/regexp '/\A[\w+\-.]+@[a-z\d\-.]+\.[a-z]+\z/i'
