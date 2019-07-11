@@ -80,3 +80,14 @@ en:
     title-signup-7: "Create my account"
   users-page:
     tittle-user-1: "User doesn't exist!"
+    tittle-user-2: "Log out"
+    tittle-user-3: "Settings"
+    tittle-user-4: "Profile"
+    tittle-user-5: "User"
+    tittle-user-6: "Account"
+  login-page:
+    tittle-login-1: "Login"
+    tittle-login-2: "Log in"
+    tittle-login-3: "Invalid email/password combination"
+    tittle-login-4: "New user?"
+    tittle-login-5: "Sign up now!"
