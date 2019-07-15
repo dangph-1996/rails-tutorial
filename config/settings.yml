@@ -16,3 +16,8 @@ validation_user:
   email_user: !ruby/regexp '/\A[\w+\-.]+@[a-z\d\-.]+\.[a-z]+\z/i'
 webpage_user:
   user_size_img: 80
+edit_user:
+  gravatar_link: "http://gravatar.com/emails"
+index_user:
+  gravatar_img: 50
+  item_user_paginate: 10

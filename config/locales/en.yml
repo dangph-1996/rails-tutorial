@@ -92,3 +92,17 @@ en:
     tittle-login-4: "New user?"
     tittle-login-5: "Sign up now!"
     tittle-login-6: "Remember me on this computer"
+    tittle-login-7: "Please log in."
+  edit-users-page:
+    tittle-edit-user1: "Edit user"
+    tittle-edit-user2: "Update your profile"
+    tittle-edit-user3: "Confirmation"
+    tittle-edit-user4: "Save changes"
+    tittle-edit-user5: "change"
+    tittle-edit-user6: "Profile updated"
+  login-index-user:
+    tittle-index-user1: "All users"
+    tittle-index-user2: "|"
+    tittle-index-user3: "You sure?"
+    tittle-index-user4: "User deleted"
+    tittle-index-user5: "User can't delete"
