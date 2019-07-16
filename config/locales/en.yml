@@ -106,3 +106,15 @@ en:
     tittle-index-user3: "You sure?"
     tittle-index-user4: "User deleted"
     tittle-index-user5: "User can't delete"
+  send-mail-signup:
+    tittle-send-mail1: "Hi"
+    tittle-send-mail2: "Welcome to the Sample App! Click on the link below to
+      activate your account:"
+    tittle-send-mail3: "Activate"
+    tittle-send-mail4: "Please check your email to activate your account."
+    tittle-send-mail5: "Account activated!"
+    tittle-send-mail6: "Invalid activation link"
+    tittle-send-mail7: "Account not activated."
+    tittle-send-mail8: "Check your email for the activation link."
+    tittle-send-mail9: "Account activation"
+    tittle-send-mail10: "Password reset"

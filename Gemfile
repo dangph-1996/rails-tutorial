@@ -16,6 +16,7 @@ gem "bcrypt",         "3.1.12"
 gem "faker",          "1.7.3"
 gem "kaminari"
 gem "kaminari-bootstrap", "~> 3.0", ">= 3.0.1"
+gem "figaro"
 
 group :development, :test do
   gem "mysql2", ">= 0.3.18", "< 0.5"
