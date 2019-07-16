@@ -93,6 +93,7 @@ en:
     tittle-login-5: "Sign up now!"
     tittle-login-6: "Remember me on this computer"
     tittle-login-7: "Please log in."
+    tittle-login-8: "(forgot password)"
   edit-users-page:
     tittle-edit-user1: "Edit user"
     tittle-edit-user2: "Update your profile"
@@ -118,3 +119,20 @@ en:
     tittle-send-mail8: "Check your email for the activation link."
     tittle-send-mail9: "Account activation"
     tittle-send-mail10: "Password reset"
+  forgot_password_user:
+    tittle_page: "Forgot password"
+    tittle_forgot_password1: "Submit"
+    tittle_forgot_password2: "Email sent with password reset instructions"
+    tittle_forgot_password3: "Email address not found"
+  send_mail_forgotpassword:
+    tittle_sm_fogotpassword1: "Password reset"
+    tittle_sm_fogotpassword2: "To reset your password click the link below:"
+    tittle_sm_fogotpassword3: "This link will expire in two hours."
+    tittle_sm_fogotpassword4: "If you did not request your password to be reset, please ignore this email and your password will stay as it is."
+  reset_password_user:
+    tittle_page: "Reset password"
+    tittle_reset_password1: "Confirmation"
+    tittle_reset_password2: "Update password"
+    tittle_reset_password3: "can't be empty"
+    tittle_reset_password4: "Password has been reset."
+    tittle_reset_password5: "Password reset has expired."
