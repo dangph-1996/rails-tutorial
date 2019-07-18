@@ -22,3 +22,6 @@ index_user:
   gravatar_img: 50
   item_user_paginate: 10
 time_password_reset_expired: 2
+validation_micropost:
+  validation_content: 140
+  limit_size_img: 5

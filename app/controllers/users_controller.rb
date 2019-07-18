@@ -9,7 +9,10 @@ class UsersController < ApplicationController
       .per Settings.index_user.item_user_paginate
   end
 
-  def show; end
+  def show
+    @microposts = @user.microposts.newpost.page(params[:page])
+      .per Settings.index_user.item_user_paginate
+  end
 
   def new
     @user = User.new
