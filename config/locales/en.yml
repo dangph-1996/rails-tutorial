@@ -153,4 +153,13 @@ en:
     tittle_microposts_show14: "Micropost deleted failed"
     tittle_microposts_show15: "view my profile"
     tittle_microposts_show16: "microposts"
+    tittle_microposts_show17: "Microposts: "
+  follow_user:
+    following: "Following"
+    followers: "Followers"
+    unfollow: "Unfollow"
+    follow: "Follow"
+    view_profile: "view my profile"
+    follow_error: "follow errors"
+    unfollow_error: "unfollow errors"
 

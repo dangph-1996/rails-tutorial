@@ -25,3 +25,4 @@ time_password_reset_expired: 2
 validation_micropost:
   validation_content: 140
   limit_size_img: 5
+  img_followers: 30
